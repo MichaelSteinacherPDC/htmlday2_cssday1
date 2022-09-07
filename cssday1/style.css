@@ -1,0 +1,23 @@
+/* if its just a name its for html tags*/
+
+b{
+    font-size:30px;
+}
+
+/* . is for class*/
+
+.more-destination > li{
+    color: aqua;
+}
+
+.intro{
+    color:blue;
+}
+
+.description{
+    color:green;
+}
+/* # is for id*/
+#heading{
+    color:violet;
+}
